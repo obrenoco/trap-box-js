@@ -75,7 +75,7 @@ SSH URLs provide access to a Git repository via SSH, a secure protocol. If you u
 
 
 
-```git clone git@github.com:obrenoco/JavaScript30.git```
+```git clone git@github.com:obrenoco/trap-box-js.git```
 
 
 
