@@ -1,6 +1,9 @@
 # trap-box-js
+![](https://media.giphy.com/media/LWESmgwEAdz0qgtw5e/giphy.gif)
+<br/>
+<br/>
+
 <p  align="center">
-  ![](https://media.giphy.com/media/LWESmgwEAdz0qgtw5e/giphy.gif)
   <a  href="">
   <img  src="https://img.shields.io/github/stars/obrenoco/JavaScript30" />
   </a>
