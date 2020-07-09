@@ -1,5 +1,5 @@
 # trap-box-js
-[](https://media.giphy.com/media/LWESmgwEAdz0qgtw5e/giphy.gif)
+![](https://media.giphy.com/media/LWESmgwEAdz0qgtw5e/giphy.gif)
 🔥 Trap box is an exercise done with JS
 <p  align="center">
   <a  href="">
