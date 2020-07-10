@@ -3,13 +3,13 @@
 <img  src="https://media.giphy.com/media/LWESmgwEAdz0qgtw5e/giphy.gif"  height="200" alt="Trap Box">
 </p>
 <br/>
-<br/>
+
 
 <p  align="center">
   <a  href="">
-  <img  src="https://img.shields.io/github/stars/obrenoco/JavaScript30" />
+  <img  src="https://img.shields.io/github/stars/obrenoco/trap-box" />
   </a>
-  <img  src="https://img.shields.io/github/forks/obrenoco/JavaScript30" />
+  <img  src="https://img.shields.io/github/forks/obrenoco/trap-box" />
   </a>
 </p>
 
