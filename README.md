@@ -1,4 +1,4 @@
-# trap-box-js
+# Trap box
 <p  align="center">
 <img  src="https://media.giphy.com/media/LWESmgwEAdz0qgtw5e/giphy.gif"  height="200" alt="Trap Box">
 </p>
@@ -7,9 +7,9 @@
 
 <p  align="center">
   <a  href="">
-  <img  src="https://img.shields.io/github/stars/obrenoco/trap-box" />
+  <img  src="https://img.shields.io/github/stars/obrenoco/trap-box-js" />
   </a>
-  <img  src="https://img.shields.io/github/forks/obrenoco/trap-box" />
+  <img  src="https://img.shields.io/github/forks/obrenoco/trap-box-js" />
   </a>
 </p>
 
